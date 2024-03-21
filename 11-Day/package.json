@@ -1,1 +1,14 @@
+{
+  "name": "typescript-45-questions",
+  "version": "1.0.0",
+  "description": "100 Days TypeScript Challange,"
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "M Salman",
+  "license": "ISC"
+}
 
