@@ -1,10 +1,9 @@
-
 # Day-61 of `100-Days-Of-Code` Challenge
 
 **Day-61 Task:**
 
-Read the following Articles and Code along with it:
+First understand what typescript is, and why we need it, then setup typescript using the following guides:
 
-[Arrow functions Basics in JavaScript](https://javascript.info/arrow-functions-basics)
+[TypeScript Introduction in Simple Words](./TS-Intro%20&%20Setup/typescript-intro.md)
 
-[JavaScript specials in JavaScript](https://javascript.info/javascript-specials)
+[Setup TypeScript | Step-by-Step](./TS-Intro%20&%20Setup/typescript-setup.md)
