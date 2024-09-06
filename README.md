@@ -43,3 +43,17 @@ Each day has its own folder:
 1. Clone this repository:
    ```bash
    https://github.com/SalmanO7/TypeScript-100-Days.git
+
+
+## 🏅 Challenge Goals
+
+1. Master TypeScript by coding every day for 100 days
+2. Build real-world projects using TypeScript
+3. Get comfortable with TypeScript's advanced features and best practices
+   🤝 Contributions
+4. Feel free to fork this repository, raise issues, or submit pull requests. Let's learn and grow together!
+
+## 💡 Inspiration
+This challenge is inspired by the 100DaysOfCode movement and is tailored to those who want to become proficient in TypeScript.
+
+### Happy Coding! 🚀
