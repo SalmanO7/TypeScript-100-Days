@@ -42,5 +42,4 @@ Each day has its own folder:
 
 1. Clone this repository:
    ```bash
-   [git clone https://github.com/your-username/typescript-100-days.git
-](https://github.com/SalmanO7/TypeScript-100-Days.git)
+   https://github.com/SalmanO7/TypeScript-100-Days.git
