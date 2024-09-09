@@ -1,9 +1,9 @@
- # Day-79 of `100-Days-Of-Code` Challenge
+ # Day-80 of `100-Days-Of-Code` Challenge
 
- **Day-79 Task:**
+ **Day-80 Task:**
 
- Read the following Articles with interactive video about Basics of Authentication and HTTP Basic Authentication.
+ Read the following Article about the difference between Full Stack Developer or Software Engineer.
 
- [Basics of Authentication](https://roadmap.sh/guides/basics-of-authentication)
+ [Full Stack Developer or Software Engineer – Which Way to Go?](https://roadmap.sh/full-stack/vs-software-engineer)
 
- [HTTP Basic Authentication](https://roadmap.sh/guides/http-basic-authentication)
+
